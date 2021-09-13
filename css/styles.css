@@ -1,0 +1,99 @@
+.topContainer {
+  width: 100%;
+  background-image: url("background.png");
+  background-color: #3B185F;
+  background-size: cover;
+  background-position: center;
+  padding: 50% 6%;
+  text-align: center;
+}
+
+.bioContainer {
+  background-color: #fff;
+  padding: 10% 15%;
+  text-align: center;
+}
+
+.skillContainer {
+  background-color: #FEC260;
+  padding: 10% 15%;
+}
+
+.contactContainer {
+  background-color: #fff;
+  padding: 10% 15%;
+  text-align: center;
+}
+
+.creditContainer {
+  background-color: #FEC260;
+  padding: 4%;
+  text-align: center;
+}
+
+.headingIcon {
+  margin-top: 22px;
+}
+
+.bio {
+  padding-top: 40px;
+  line-height: 2;
+  text-align: center;
+}
+
+.textalignright {
+  text-align: right;
+}
+
+.textalignleft {
+  text-align: left;
+}
+
+.logoImage {
+  width: 75%;
+}
+
+.skillImages {
+  width: 70%;
+  margin-top: 190px;
+}
+
+.skillImagesTop {
+  width: 70%;
+  margin-top: 50px;
+}
+
+.topMargin40 {
+  margin-top: 40px;
+}
+.contactButton:hover {
+  color: #B4B897;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #B85C38;
+}
+
+h2 {
+  font-size: 3.8rem;
+  color: #506D84;
+}
+
+h3 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 2.5rem;
+}
+
+h5 {
+  font-size: 2.25rem;
+  line-height: 1.75;
+}
+
+p {
+  font-size: 1.5rem;
+}
